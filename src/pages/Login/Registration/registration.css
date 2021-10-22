@@ -1,0 +1,12 @@
+.registration-section a{
+    text-decoration: none;
+}
+
+.submit-btn{
+    background-color: indigo;
+}
+.registration-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
