@@ -116,7 +116,7 @@ const Registration = () => {
       <h5> Already registered?</h5>{" "}
       <Link to="/login">
         <h4>
-          Click Here <span className="common-toggle">just Login</span>
+          Click Here <span className="common-toggle"> to Login</span>
         </h4>
       </Link>
       <br />
